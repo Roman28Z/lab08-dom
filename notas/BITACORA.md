@@ -1,7 +1,7 @@
 # Bitacora de JavaScript interactivo
  
 Laboratorio 08: JavaScript Interactivo - DOM, Eventos y Objetos.
-Navegador usado: (escribe aqui cual usaste)
+Navegador usado: (Brave)
  
 ## Ejercicio 2: Seleccionar y modificar el DOM
 
