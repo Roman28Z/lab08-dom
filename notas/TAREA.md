@@ -12,6 +12,10 @@ Una lista de tareas donde se pueden agregar, marcar como hechas y borrar tareas.
 
 ## Version 2: con eventos
 
+- **Que agregue:** tres eventos: `input` (contador de caracteres), `submit` (agregar tarea con validación) y `click` (marcar como hecha y borrar), además de la función `actualizarResumen`.
+- **Por que:** para que la página reaccione al usuario sin recargarse y para validar lo que escribe con un mensaje visible en la página, no con alert.
+- **Que cambio en el comportamiento:** ahora se pueden agregar tareas nuevas, marcarlas como hechas, borrarlas y ver el total y las hechas actualizados. Si el campo está vacío o pasa de 40 caracteres, aparece un mensaje en rojo.
+
 ## Version 3: con clases y objetos
 
 ## Donde uso DOM, eventos y objetos
